@@ -1,0 +1,3 @@
+org\forgerock\openam\auth\nodes\GetProfilePropertyNode$Config.class
+org\forgerock\openam\auth\nodes\GetProfilePropertyNode.class
+org\forgerock\openam\auth\nodes\GetProfilePropertyNodePlugin.class
